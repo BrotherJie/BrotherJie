@@ -4,10 +4,10 @@
 
 ## About me
 - 🔭  I am currently working as a **Web Developer** in Shanghai, China
-- 🤔 I’m currently open for a new `job opportunity`
 - 💻 Learn to be a indie hacker
 - 🦙 AI Explorer
-- 📧 Feel free to contact me: 
+- 🤔 I’m currently open for a new `job opportunity`
+- 📧 Feel free to contact me 😄
 
 ## Tech Stack
 ### Backend
@@ -17,7 +17,7 @@
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"> <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> <img alt="Vue" src="https://img.shields.io/badge/Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D"> <img alt="Vite" src="https://img.shields.io/badge/Vite-8B89CC?style=flat&logo=vite&logoColor=4FC08D"> 
 
 ### Database
-<img src="https://img.shields.io/badge/Mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/> <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white"> <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch">
+<img src="https://img.shields.io/badge/Mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/> <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white"> <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch">
 
 ### Machine Learning
 <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"> <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white"> 
