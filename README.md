@@ -2,6 +2,29 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lvlingjie8520@gmail.com) [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:roreiketsu@outlook.com) [![HitCount](http://hits.dwyl.com/BrotherJie/BrotherJie.svg)](http://hits.dwyl.com/BrotherJie/BrotherJie)
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 3.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I Mostly Code in Java** 
+
+```text
+Java                     3 repos             ███████████████████░░░░░░   75.00 % 
+Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+
+ Last Updated on 21/04/2024 18:37:42 UTC
 <!--END_SECTION:waka-->
 
 
