@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm De Bill <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lvlingjie8520@gmail.com) [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:roreiketsu@outlook.com) [![HitCount](http://hits.dwyl.com/BrotherJie/BrotherJie.svg)](http://hits.dwyl.com/BrotherJie/BrotherJie)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lvlingjie8520@gmail.com) [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:roreiketsu@outlook.com) [![Visitors](http://hits.dwyl.com/BrotherJie/BrotherJie.svg)](http://hits.dwyl.com/BrotherJie/BrotherJie)
 
 
 📊 **This Week I Spent My Time On** 
