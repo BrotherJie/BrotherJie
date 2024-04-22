@@ -1,10 +1,6 @@
 <h1 align="center">Hi , I'm De Bill <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lvlingjie8520@gmail.com) [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:roreiketsu@outlook.com) [![HitCount](http://hits.dwyl.com/BrotherJie/BrotherJie.svg)](http://hits.dwyl.com/BrotherJie/BrotherJie)
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%206%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 
 📊 **This Week I Spent My Time On** 
@@ -18,6 +14,7 @@ Vue.js                   20 mins             ████████░░░�
 Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
 JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 GitIgnore file           4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+```
 
 <!--END_SECTION:waka-->
 
