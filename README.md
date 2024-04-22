@@ -18,8 +18,9 @@ GitIgnore file           4 mins              ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
 ## About me
+<img align="right" alt="GIF" src="assets/code.gif" width="300" height="160" title="passion"/>
+
 - 🔭  I am currently working as a **Web Developer** in Shanghai, China
 - 💻 Learn to be a indie hacker
 - 🦙 AI Explorer
