@@ -2,51 +2,11 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lvlingjie8520@gmail.com) [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:roreiketsu@outlook.com) [![Visitors](http://hits.dwyl.com/BrotherJie/BrotherJie.svg)](http://hits.dwyl.com/BrotherJie/BrotherJie)
 
-
-📊 **This Week I Spent My Time On** 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2010%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 3.2 kB Used in GitHub's Storage 
- > 
-> 🏆 11 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-🌃 Evening                29 commits          ████████████████░░░░░░░░░   64.44 % 
-🌙 Night                  11 commits          ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   16 commits          █████████░░░░░░░░░░░░░░░░   35.56 % 
-Tuesday                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Wednesday                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Thursday                 12 commits          ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 Java                     25 mins             ██████████░░░░░░░░░░░░░░░   39.88 % 
 Vue.js                   20 mins             ████████░░░░░░░░░░░░░░░░░   31.90 % 
@@ -54,27 +14,7 @@ Markdown                 7 mins              ███░░░░░░░░�
 JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 GitIgnore file           4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
-🔥 Editors: 
-Intellijidea             39 mins             ████████████████░░░░░░░░░   62.56 % 
-VS Code                  23 mins             █████████░░░░░░░░░░░░░░░░   37.44 % 
-
-🐱‍💻 Projects: 
-AutoMaotai               55 mins             ██████████████████████░░░   87.67 % 
-campus-imaotai           7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-
-💻 Operating System: 
-Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     3 repos             ███████████████████░░░░░░   75.00 % 
-Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-```
-
-
-
 
  Last Updated on 22/04/2024 13:55:10 UTC
 <!--END_SECTION:waka-->
