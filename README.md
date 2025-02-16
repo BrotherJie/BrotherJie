@@ -3,6 +3,13 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lvlingjie8520@gmail.com) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=maildotru&logoColor=white)](mailto:roreiketsu@outlook.com) [![Visitors](http://hits.dwyl.com/BrotherJie/BrotherJie.svg)](http://hits.dwyl.com/BrotherJie/BrotherJie)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Go                       5 hrs 28 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
