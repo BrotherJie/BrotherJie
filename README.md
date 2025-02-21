@@ -7,7 +7,7 @@
 
 ```text
 💬 Programming Languages: 
-Go                       7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
