@@ -7,7 +7,7 @@
 
 ```text
 💬 Programming Languages: 
-PHP                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
