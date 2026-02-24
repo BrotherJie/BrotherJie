@@ -7,7 +7,7 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Git Config               9 mins              █████████████████████████   100.00 % 
 ```
 
 
