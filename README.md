@@ -7,7 +7,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 12 mins             ███████████████████░░░░░░   74.62 % 
+Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 
 
