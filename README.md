@@ -7,11 +7,7 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 13 mins        ████████████████░░░░░░░░░   65.39 % 
-Other                    25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-TypeScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 ```
 
 
