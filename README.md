@@ -7,7 +7,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 29 mins             █████████░░░░░░░░░░░░░░░░   34.46 % 
+Java                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Other                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+XML                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+YAML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
 ```
 
 
