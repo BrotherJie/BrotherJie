@@ -3,6 +3,17 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lvlingjie8520@gmail.com) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=maildotru&logoColor=white)](mailto:roreiketsu@outlook.com) [![Visitors](http://hits.dwyl.com/BrotherJie/BrotherJie.svg)](http://hits.dwyl.com/BrotherJie/BrotherJie)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    2 hrs 38 mins       █████████████░░░░░░░░░░░░   50.14 % 
+Markdown                 1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Go                       20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+```
+
 
 <!--END_SECTION:waka-->
 
