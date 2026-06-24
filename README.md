@@ -7,10 +7,7 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 55 mins             ██████████████░░░░░░░░░░░   55.41 % 
-Other                    26 mins             ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Java Properties          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+No Activity Tracked This Week
 ```
 
 
