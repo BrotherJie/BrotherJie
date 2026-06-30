@@ -7,7 +7,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               43 mins             ████████░░░░░░░░░░░░░░░░░   32.39 % 
+Markdown                 31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+JavaScript               26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Java                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 
 
