@@ -3,15 +3,39 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lvlingjie8520@gmail.com) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=maildotru&logoColor=white)](mailto:roreiketsu@outlook.com) [![Visitors](http://hits.dwyl.com/BrotherJie/BrotherJie.svg)](http://hits.dwyl.com/BrotherJie/BrotherJie)
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%2038%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-Java                     1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-Python                   1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Markdown                 2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+Java                     1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+Python                   1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Bash                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 29 mins (100.0%)
+
+✍️ 4,286 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 87,910,150 Input Tokens, 451,221 Output Tokens
+
+💵 $442.58 Estimated AI Cost This Week
+
+🧠 17 AI Sessions, 67 AI Prompts
+
+GPT                      4,353 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 5,794 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
