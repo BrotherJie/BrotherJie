@@ -60,14 +60,41 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2049%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
 ```text
-💬 Programming Languages:
-Markdown                 2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.23 %
-Java                     1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   26.05 %
-Python                   1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   23.49 %
-Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+💬 Programming Languages: 
+Markdown                2 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░  27.23 %
+Java                    1 hr 57 mins    ███████░░░░░░░░░░░░░░░░░░  26.05 %
+Python                  1 hr 45 mins    ██████░░░░░░░░░░░░░░░░░░░  23.49 %
+Other                   37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.44 %
+Bash                    29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   6.61 %
 ```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 29 mins (100.00%)
+
+✍️ 4,286 lines written by AI, 0 lines written by hand (100.00% AI-written)
+
+🔤 87,910,150 Input Tokens, 451,221 Output Tokens
+
+💵 $442.58 Estimated AI Cost This Week
+
+🧠 17 AI Sessions, 67 AI Prompts
+
+GPT                     4,353 lines     █████████████████████████ 100.00 %
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.00% of written lines came from AI
+📚 Verbose Prompter — average 5,794 characters per prompt
+🔁 Iterative Prompter — average 4.00 prompts per session
+🚀 High AI Trust — 0.00% of changed lines were hand-edited
+```
+
 <!--END_SECTION:waka-->
 
 </details>
