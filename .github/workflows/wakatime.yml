@@ -21,9 +21,9 @@ jobs:
           # 标签
           SHOW_TOTAL_CODE_TIME: False
           SHOW_PROFILE_VIEWS: False
-          # 隐藏 AI 使用量、token 和预估成本等个人工作数据
-          SHOW_AI_CODE_TIME: False
-          SHOW_AI_CODING: False
+          # 展示 AI coding 时长、token、成本与模型分布统计
+          SHOW_AI_CODE_TIME: True
+          SHOW_AI_CODING: True
           # GitHub 数据
           SHOW_SHORT_INFO: False
           # 提交统计
