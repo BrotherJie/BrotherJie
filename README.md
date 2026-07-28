@@ -44,10 +44,6 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 
 ### Currently working with
 
-<p>
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-</p>
-
 - Extending [OneAPI](https://github.com/songquanpeng/one-api) in Go for AI gateway workflows
 - Building `IQ-Data-Langchain4j`, a natural-language interface for querying database data
 
