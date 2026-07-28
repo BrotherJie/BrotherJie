@@ -49,6 +49,7 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 </p>
 
 - Extending OneAPI in Go for AI gateway workflows
+- Developing `IQ-Data-Langchain4j` on **lzc-dev**
 
 ## Now
 
