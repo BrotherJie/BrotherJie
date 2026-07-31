@@ -57,37 +57,36 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-121%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2056%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                   2 hrs           ██████████░░░░░░░░░░░░░░░  40.48 %
-Markdown                1 hr 37 mins    ████████░░░░░░░░░░░░░░░░░  32.85 %
-Java                    35 mins         ███░░░░░░░░░░░░░░░░░░░░░░  12.10 %
-Bash                    29 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.02 %
-Python                  13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.55 %
+Other                   1 hr 49 mins    ██████████░░░░░░░░░░░░░░░  38.96 %
+Markdown                1 hr 39 mins    █████████░░░░░░░░░░░░░░░░  35.37 %
+Python                  42 mins         ████░░░░░░░░░░░░░░░░░░░░░  15.08 %
+Bash                    29 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.59 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 56 mins (100.00%)
+⏱ AI Coding Time: 4 hrs 40 mins (100.00%)
 
-✍️ 1,007 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 1,223 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 46,893,979 Input Tokens, 316,424 Output Tokens
+🔤 52,975,986 Input Tokens, 280,832 Output Tokens
 
-💵 $230.89 Estimated AI Cost This Week
+💵 $265.11 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 94 AI Prompts
+🧠 25 AI Sessions, 70 AI Prompts
 
-GPT                     208 lines       █████████████████████████ 100.00 %
+GPT                     1,223 lines     █████████████████████████ 100.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Verbose Prompter — average 5,493 characters per prompt
+📚 Verbose Prompter — average 6,100 characters per prompt
 🔁 Iterative Prompter — average 3.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
