@@ -63,30 +63,29 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 
 ```text
 💬 Programming Languages: 
-Other                   1 hr 49 mins    ██████████░░░░░░░░░░░░░░░  38.96 %
-Markdown                1 hr 39 mins    █████████░░░░░░░░░░░░░░░░  35.37 %
-Python                  42 mins         ████░░░░░░░░░░░░░░░░░░░░░  15.08 %
-Bash                    29 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.59 %
+Other                   1 hr 41 mins    ████████████░░░░░░░░░░░░░  48.15 %
+Markdown                1 hr 19 mins    ██████████░░░░░░░░░░░░░░░  38.12 %
+Python                  28 mins         ███░░░░░░░░░░░░░░░░░░░░░░  13.72 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 40 mins (100.00%)
+⏱ AI Coding Time: 3 hrs 29 mins (100.00%)
 
-✍️ 1,223 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 892 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 52,975,986 Input Tokens, 280,832 Output Tokens
+🔤 42,166,813 Input Tokens, 202,490 Output Tokens
 
-💵 $265.11 Estimated AI Cost This Week
+💵 $213.63 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 70 AI Prompts
+🧠 20 AI Sessions, 53 AI Prompts
 
-GPT                     1,223 lines     █████████████████████████ 100.00 %
+GPT                     892 lines       █████████████████████████ 100.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Verbose Prompter — average 6,100 characters per prompt
+📚 Verbose Prompter — average 5,668 characters per prompt
 🔁 Iterative Prompter — average 3.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
