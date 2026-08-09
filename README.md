@@ -57,35 +57,39 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2034%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                   1 hr 15 mins    █████████████████████████ 100.00 %
+Other                   1 hr 25 mins    ███████████████████░░░░░░  74.51 %
+YAML                    8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   7.73 %
+SQL                     8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   7.17 %
+Python                  7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   6.86 %
+Markdown                4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   3.72 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (100.00%)
+⏱ AI Coding Time: 1 hr 54 mins (100.00%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0.00% AI-written)
+✍️ 270 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 534,392 Input Tokens, 70,491 Output Tokens
+🔤 984,243 Input Tokens, 111,352 Output Tokens
 
-💵 $8.75 Estimated AI Cost This Week
+💵 $18.60 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 16 AI Prompts
+🧠 5 AI Sessions, 23 AI Prompts
 
+GPT                     270 lines       █████████████████████████ 100.00 %
 Vscode-Wakatime         0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-GPT                     0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 🔎 AI Coding Insights:
-🤖 Hands-On — 0.00% of written lines came from AI
-📚 Concise Prompter — average 150 characters per prompt
-🔁 Iterative Prompter — average 16.00 prompts per session
+🤖 AI-Driven — 100.00% of written lines came from AI
+📚 Verbose Prompter — average 5,721 characters per prompt
+🔁 Iterative Prompter — average 5.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
 
