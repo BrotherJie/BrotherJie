@@ -63,34 +63,32 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 
 ```text
 💬 Programming Languages: 
-Other                   2 hrs 23 mins   █████████░░░░░░░░░░░░░░░░  36.05 %
-Markdown                1 hr 37 mins    ██████░░░░░░░░░░░░░░░░░░░  24.55 %
-Python                  40 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.24 %
-YAML                    29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.32 %
-Java                    19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.97 %
+Other                   2 hrs 23 mins   ██████████░░░░░░░░░░░░░░░  40.18 %
+Markdown                1 hr 23 mins    ██████░░░░░░░░░░░░░░░░░░░  23.43 %
+Python                  30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.68 %
+YAML                    20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.67 %
+Java                    19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.54 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 37 mins (100.00%)
+⏱ AI Coding Time: 5 hrs 56 mins (100.00%)
 
-✍️ 1,596 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 1,324 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 3,610,481 Input Tokens, 376,575 Output Tokens
+🔤 3,267,980 Input Tokens, 339,154 Output Tokens
 
-💵 $69.87 Estimated AI Cost This Week
+💵 $62.00 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 88 AI Prompts
+🧠 24 AI Sessions, 82 AI Prompts
 
-GPT                     1,606 lines     █████████████████████████  99.88 %
-Hermes                  2 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12 %
+GPT                     1,336 lines     █████████████████████████ 100.00 %
 Codex-Vscode            0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
-Deepseek                0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Verbose Prompter — average 4,983 characters per prompt
+📚 Verbose Prompter — average 4,167 characters per prompt
 🔁 Iterative Prompter — average 3.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
