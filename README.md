@@ -57,39 +57,39 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-131%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-131%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                   1 hr 25 mins    ████████░░░░░░░░░░░░░░░░░  33.61 %
-Markdown                54 mins         █████░░░░░░░░░░░░░░░░░░░░  21.44 %
-YAML                    20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.97 %
-Java                    19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.79 %
-Bash                    19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.59 %
+Other                   1 hr 22 mins    ███████████░░░░░░░░░░░░░░  42.37 %
+Markdown                54 mins         ███████░░░░░░░░░░░░░░░░░░  28.00 %
+YAML                    20 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.45 %
+Bash                    19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.95 %
+Python                  17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.24 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 13 mins (100.00%)
+⏱ AI Coding Time: 3 hrs 13 mins (100.00%)
 
-✍️ 1,117 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 1,051 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 2,850,921 Input Tokens, 259,950 Output Tokens
+🔤 2,558,482 Input Tokens, 224,476 Output Tokens
 
-💵 $52.17 Estimated AI Cost This Week
+💵 $49.34 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 63 AI Prompts
+🧠 19 AI Sessions, 55 AI Prompts
 
-GPT                     1,129 lines     █████████████████████████ 100.00 %
+GPT                     1,051 lines     █████████████████████████ 100.00 %
 Codex-Vscode            0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Verbose Prompter — average 4,554 characters per prompt
-🔁 Iterative Prompter — average 4.00 prompts per session
+📚 Verbose Prompter — average 4,365 characters per prompt
+🔁 Iterative Prompter — average 3.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
 
