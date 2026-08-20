@@ -63,33 +63,32 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 
 ```text
 💬 Programming Languages: 
-Other                   1 hr 22 mins    ███████████░░░░░░░░░░░░░░  42.37 %
-Markdown                54 mins         ███████░░░░░░░░░░░░░░░░░░  28.00 %
-YAML                    20 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.45 %
-Bash                    19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.95 %
-Python                  17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.24 %
+Other                   41 mins         ██████████████░░░░░░░░░░░  55.92 %
+YAML                    20 mins         ███████░░░░░░░░░░░░░░░░░░  26.94 %
+Markdown                12 mins         ████░░░░░░░░░░░░░░░░░░░░░  16.60 %
+Python                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 13 mins (100.00%)
+⏱ AI Coding Time: 1 hr 15 mins (100.00%)
 
-✍️ 1,051 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 148 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 2,558,482 Input Tokens, 224,476 Output Tokens
+🔤 1,427,206 Input Tokens, 123,071 Output Tokens
 
-💵 $49.34 Estimated AI Cost This Week
+💵 $30.38 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 55 AI Prompts
+🧠 11 AI Sessions, 18 AI Prompts
 
-GPT                     1,051 lines     █████████████████████████ 100.00 %
+GPT                     148 lines       █████████████████████████ 100.00 %
 Codex-Vscode            0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Verbose Prompter — average 4,365 characters per prompt
-🔁 Iterative Prompter — average 3.00 prompts per session
+📚 Verbose Prompter — average 3,743 characters per prompt
+🔁 Iterative Prompter — average 2.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
 
