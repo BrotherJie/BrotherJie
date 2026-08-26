@@ -57,39 +57,37 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-134%20hrs%201%20min-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2024%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                   1 hr 10 mins    ███████████░░░░░░░░░░░░░░  44.37 %
-Python                  1 hr 4 mins     ██████████░░░░░░░░░░░░░░░  40.65 %
-INI                     14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.25 %
-Bash                    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   3.13 %
-Markdown                4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   2.60 %
+Other                   1 hr 44 mins    ███████████████░░░░░░░░░░  58.59 %
+Python                  1 hr 4 mins     █████████░░░░░░░░░░░░░░░░  36.30 %
+Bash                    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   2.79 %
+Markdown                4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   2.32 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 39 mins (100.00%)
+⏱ AI Coding Time: 2 hrs 58 mins (100.00%)
 
 ✍️ 363 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 1,971,097 Input Tokens, 220,266 Output Tokens
+🔤 1,979,085 Input Tokens, 218,198 Output Tokens
 
-💵 $30.80 Estimated AI Cost This Week
+💵 $27.81 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 52 AI Prompts
+🧠 14 AI Sessions, 57 AI Prompts
 
 GPT                     363 lines       █████████████████████████ 100.00 %
-Codex-Vscode            0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Verbose Prompter — average 5,354 characters per prompt
-🔁 Iterative Prompter — average 3.00 prompts per session
+📚 Verbose Prompter — average 4,165 characters per prompt
+🔁 Iterative Prompter — average 4.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
 
