@@ -57,33 +57,32 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-135%20hrs%2049%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                   1 hr 12 mins    ██████████████░░░░░░░░░░░  55.53 %
-YAML                    35 mins         ███████░░░░░░░░░░░░░░░░░░  27.29 %
-Python                  14 mins         ███░░░░░░░░░░░░░░░░░░░░░░  11.01 %
-Markdown                8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   6.18 %
+Other                   1 hr 12 mins    ██████████████░░░░░░░░░░░  56.40 %
+YAML                    35 mins         ███████░░░░░░░░░░░░░░░░░░  27.71 %
+Python                  13 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.28 %
+Markdown                7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   5.61 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 10 mins (100.00%)
+⏱ AI Coding Time: 2 hrs 8 mins (100.00%)
 
-✍️ 16 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 15 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
 🔤 686,157 Input Tokens, 89,950 Output Tokens
 
 💵 $9.81 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 25 AI Prompts
+🧠 8 AI Sessions, 25 AI Prompts
 
-GPT                     15 lines        ███████████████████████░░  93.75 %
-Hermes                  1 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   6.25 %
+GPT                     15 lines        █████████████████████████ 100.00 %
 Codex-Vscode            0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 🔎 AI Coding Insights:
