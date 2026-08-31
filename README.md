@@ -63,32 +63,30 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 
 ```text
 💬 Programming Languages: 
-Other                   1 hr 12 mins    ██████████████░░░░░░░░░░░  56.40 %
-YAML                    35 mins         ███████░░░░░░░░░░░░░░░░░░  27.71 %
-Python                  13 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.28 %
-Markdown                7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   5.61 %
+Other                   1 hr 40 mins    ██████████████████░░░░░░░  72.43 %
+YAML                    35 mins         ██████░░░░░░░░░░░░░░░░░░░  25.49 %
+Markdown                2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   2.08 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (100.00%)
+⏱ AI Coding Time: 2 hrs 19 mins (100.00%)
 
-✍️ 15 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 1 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 686,157 Input Tokens, 89,950 Output Tokens
+🔤 1,028,585 Input Tokens, 120,386 Output Tokens
 
-💵 $9.81 Estimated AI Cost This Week
+💵 $13.55 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 25 AI Prompts
+🧠 6 AI Sessions, 23 AI Prompts
 
-GPT                     15 lines        █████████████████████████ 100.00 %
-Codex-Vscode            0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
+GPT                     1 lines         █████████████████████████ 100.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Verbose Prompter — average 1,600 characters per prompt
-🔁 Iterative Prompter — average 3.00 prompts per session
+📚 Verbose Prompter — average 1,556 characters per prompt
+🔁 Iterative Prompter — average 4.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
 
