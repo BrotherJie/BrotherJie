@@ -57,37 +57,38 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-136%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2052%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                   1 hr 14 mins    █████████░░░░░░░░░░░░░░░░  36.05 %
-Markdown                43 mins         █████░░░░░░░░░░░░░░░░░░░░  21.06 %
-YAML                    35 mins         ████░░░░░░░░░░░░░░░░░░░░░  17.09 %
-Text                    31 mins         ████░░░░░░░░░░░░░░░░░░░░░  15.09 %
-Python                  22 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.71 %
+Other                   1 hr            ████████░░░░░░░░░░░░░░░░░  31.36 %
+Markdown                43 mins         ██████░░░░░░░░░░░░░░░░░░░  22.61 %
+YAML                    35 mins         █████░░░░░░░░░░░░░░░░░░░░  18.34 %
+Text                    31 mins         ████░░░░░░░░░░░░░░░░░░░░░  16.20 %
+Python                  22 mins         ███░░░░░░░░░░░░░░░░░░░░░░  11.49 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 27 mins (100.00%)
+⏱ AI Coding Time: 3 hrs 13 mins (100.00%)
 
 ✍️ 1,298 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 1,864,311 Input Tokens, 212,784 Output Tokens
+🔤 1,825,813 Input Tokens, 212,480 Output Tokens
 
-💵 $25.82 Estimated AI Cost This Week
+💵 $27.24 Estimated AI Cost This Week
 
 🧠 8 AI Sessions, 23 AI Prompts
 
 GPT                     1,298 lines     █████████████████████████ 100.00 %
+Deepseek                0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Verbose Prompter — average 1,747 characters per prompt
+📚 Verbose Prompter — average 2,607 characters per prompt
 🔁 Iterative Prompter — average 3.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
