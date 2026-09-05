@@ -63,32 +63,31 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 
 ```text
 💬 Programming Languages: 
-Other                   1 hr            ████████░░░░░░░░░░░░░░░░░  31.36 %
-Markdown                43 mins         ██████░░░░░░░░░░░░░░░░░░░  22.61 %
-YAML                    35 mins         █████░░░░░░░░░░░░░░░░░░░░  18.34 %
-Text                    31 mins         ████░░░░░░░░░░░░░░░░░░░░░  16.20 %
-Python                  22 mins         ███░░░░░░░░░░░░░░░░░░░░░░  11.49 %
+Other                   51 mins         █████████░░░░░░░░░░░░░░░░  35.08 %
+Markdown                40 mins         ███████░░░░░░░░░░░░░░░░░░  28.08 %
+Text                    31 mins         █████░░░░░░░░░░░░░░░░░░░░  21.55 %
+Python                  22 mins         ████░░░░░░░░░░░░░░░░░░░░░  15.29 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 13 mins (100.00%)
+⏱ AI Coding Time: 2 hrs 11 mins (100.00%)
 
-✍️ 1,298 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 1,297 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 1,825,813 Input Tokens, 212,480 Output Tokens
+🔤 1,497,216 Input Tokens, 174,533 Output Tokens
 
-💵 $27.24 Estimated AI Cost This Week
+💵 $21.92 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 23 AI Prompts
+🧠 6 AI Sessions, 16 AI Prompts
 
 GPT                     1,298 lines     █████████████████████████ 100.00 %
 Deepseek                0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Verbose Prompter — average 2,607 characters per prompt
+📚 Detailed Prompter — average 645 characters per prompt
 🔁 Iterative Prompter — average 3.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
