@@ -63,32 +63,32 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 
 ```text
 💬 Programming Languages: 
-Other                   51 mins         █████████░░░░░░░░░░░░░░░░  35.08 %
-Markdown                40 mins         ███████░░░░░░░░░░░░░░░░░░  28.08 %
-Text                    31 mins         █████░░░░░░░░░░░░░░░░░░░░  21.55 %
-Python                  22 mins         ████░░░░░░░░░░░░░░░░░░░░░  15.29 %
+Markdown                44 mins         ████████░░░░░░░░░░░░░░░░░  31.63 %
+Other                   43 mins         ████████░░░░░░░░░░░░░░░░░  30.66 %
+Text                    31 mins         ██████░░░░░░░░░░░░░░░░░░░  22.06 %
+Python                  22 mins         ████░░░░░░░░░░░░░░░░░░░░░  15.65 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 11 mins (100.00%)
+⏱ AI Coding Time: 2 hrs 8 mins (100.00%)
 
 ✍️ 1,297 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 1,497,216 Input Tokens, 174,533 Output Tokens
+🔤 1,491,407 Input Tokens, 191,691 Output Tokens
 
-💵 $21.92 Estimated AI Cost This Week
+💵 $22.33 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 16 AI Prompts
+🧠 7 AI Sessions, 17 AI Prompts
 
 GPT                     1,298 lines     █████████████████████████ 100.00 %
 Deepseek                0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Detailed Prompter — average 645 characters per prompt
-🔁 Iterative Prompter — average 3.00 prompts per session
+📚 Detailed Prompter — average 709 characters per prompt
+🔁 Iterative Prompter — average 2.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
 
