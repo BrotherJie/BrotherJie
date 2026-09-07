@@ -57,37 +57,38 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2056%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                44 mins         ████████░░░░░░░░░░░░░░░░░  31.63 %
-Other                   43 mins         ████████░░░░░░░░░░░░░░░░░  30.66 %
-Text                    31 mins         ██████░░░░░░░░░░░░░░░░░░░  22.06 %
-Python                  22 mins         ████░░░░░░░░░░░░░░░░░░░░░  15.65 %
+Markdown                1 hr 18 mins    ██████████░░░░░░░░░░░░░░░  40.48 %
+Python                  1 hr 8 mins     █████████░░░░░░░░░░░░░░░░  35.40 %
+Text                    31 mins         ████░░░░░░░░░░░░░░░░░░░░░  16.23 %
+Other                   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.26 %
+YAML                    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (100.00%)
+⏱ AI Coding Time: 2 hrs 59 mins (100.00%)
 
-✍️ 1,297 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 2,089 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 1,491,407 Input Tokens, 191,691 Output Tokens
+🔤 1,412,587 Input Tokens, 224,652 Output Tokens
 
-💵 $22.33 Estimated AI Cost This Week
+💵 $38.54 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 17 AI Prompts
+🧠 9 AI Sessions, 21 AI Prompts
 
-GPT                     1,298 lines     █████████████████████████ 100.00 %
+GPT                     2,091 lines     █████████████████████████ 100.00 %
 Deepseek                0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Detailed Prompter — average 709 characters per prompt
+📚 Detailed Prompter — average 1,200 characters per prompt
 🔁 Iterative Prompter — average 2.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
