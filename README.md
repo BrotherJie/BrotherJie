@@ -63,25 +63,25 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 
 ```text
 💬 Programming Languages: 
-Markdown                2 hrs 26 mins   ███████████████░░░░░░░░░░  60.86 %
-Python                  1 hr 18 mins    ████████░░░░░░░░░░░░░░░░░  32.82 %
-INI                     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   3.08 %
-Other                   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   2.21 %
-JavaScript              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03 %
+Markdown                2 hrs 18 mins   ███████████████░░░░░░░░░░  59.50 %
+Python                  1 hr 18 mins    ████████░░░░░░░░░░░░░░░░░  33.96 %
+INI                     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   3.19 %
+Other                   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   2.28 %
+JavaScript              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs (100.00%)
+⏱ AI Coding Time: 3 hrs 52 mins (100.00%)
 
 ✍️ 4,688 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 3,238,073 Input Tokens, 286,595 Output Tokens
+🔤 3,143,973 Input Tokens, 276,982 Output Tokens
 
-💵 $66.56 Estimated AI Cost This Week
+💵 $64.61 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 79 AI Prompts
+🧠 13 AI Sessions, 76 AI Prompts
 
 GPT                     4,609 lines     █████████████████████████  98.13 %
 Hermes                  88 lines        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87 %
@@ -89,7 +89,7 @@ Deepseek                0 lines         ░░░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Verbose Prompter — average 14,585 characters per prompt
+📚 Verbose Prompter — average 15,137 characters per prompt
 🔁 Iterative Prompter — average 6.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
