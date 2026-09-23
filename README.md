@@ -63,31 +63,29 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 
 ```text
 💬 Programming Languages: 
-Markdown                56 mins         ████████████░░░░░░░░░░░░░  49.31 %
-Python                  45 mins         ██████████░░░░░░░░░░░░░░░  40.01 %
-Other                   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   8.52 %
-JavaScript              2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   2.17 %
+Markdown                7 mins          ████████████████░░░░░░░░░  63.46 %
+Python                  4 mins          █████████░░░░░░░░░░░░░░░░  36.54 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 53 mins (100.00%)
+⏱ AI Coding Time: 12 mins (100.00%)
 
-✍️ 2,580 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 729 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 2,066,862 Input Tokens, 125,467 Output Tokens
+🔤 125,599 Input Tokens, 21,480 Output Tokens
 
-💵 $31.83 Estimated AI Cost This Week
+💵 $2.85 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 30 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-GPT                     2,580 lines     █████████████████████████ 100.00 %
+GPT                     729 lines       █████████████████████████ 100.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Verbose Prompter — average 18,664 characters per prompt
-🔁 Iterative Prompter — average 8.00 prompts per session
+📚 Verbose Prompter — average 23,825 characters per prompt
+🔁 One-Shot Prompter — average 1.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
 
