@@ -57,37 +57,38 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-148%20hrs%202%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                   45 mins         █████████████░░░░░░░░░░░░  53.89 %
-Python                  24 mins         ███████░░░░░░░░░░░░░░░░░░  29.11 %
-Markdown                14 mins         ████░░░░░░░░░░░░░░░░░░░░░  17.00 %
+Python                  1 hr 28 mins    ███████████████░░░░░░░░░░  59.54 %
+Other                   45 mins         ████████░░░░░░░░░░░░░░░░░  30.64 %
+Markdown                14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.67 %
+TOML                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (100.00%)
+⏱ AI Coding Time: 2 hrs 29 mins (99.85%)
 
-✍️ 327 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 448 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 444,920 Input Tokens, 86,701 Output Tokens
+🔤 902,476 Input Tokens, 121,285 Output Tokens
 
-💵 $3.94 Estimated AI Cost This Week
+💵 $5.98 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 16 AI Prompts
+🧠 5 AI Sessions, 24 AI Prompts
 
-GPT                     327 lines       █████████████████████████ 100.00 %
+GPT                     448 lines       █████████████████████████ 100.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Verbose Prompter — average 12,051 characters per prompt
+📚 Verbose Prompter — average 8,069 characters per prompt
 🔁 Iterative Prompter — average 5.00 prompts per session
-🚀 High AI Trust — 0.00% of changed lines were hand-edited
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 <!--END_SECTION:waka-->
