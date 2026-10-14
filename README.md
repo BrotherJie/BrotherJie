@@ -80,7 +80,7 @@ TOML                    0 secs          ░░░░░░░░░░░░░�
 
 💵 $14.79 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 58 AI Prompts
+🧠 15 AI Sessions, 59 AI Prompts
 
 GPT                     760 lines       █████████████████████████ 100.00 %
 DeepSeek                0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
@@ -88,7 +88,7 @@ Codex-Vscode            0 lines         ░░░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Verbose Prompter — average 4,323 characters per prompt
+📚 Verbose Prompter — average 4,264 characters per prompt
 🔁 Iterative Prompter — average 4.00 prompts per session
 🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
