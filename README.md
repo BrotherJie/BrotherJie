@@ -63,32 +63,31 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 
 ```text
 💬 Programming Languages: 
-Other                   1 hr 21 mins    ██████████████░░░░░░░░░░░  54.66 %
-Python                  1 hr 6 mins     ███████████░░░░░░░░░░░░░░  45.19 %
-TOML                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15 %
+Python                  1 hr 19 mins    █████████████████████████  99.72 %
+TOML                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 27 mins (99.85%)
+⏱ AI Coding Time: 1 hr 19 mins (99.72%)
 
-✍️ 132 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 347 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 1,034,568 Input Tokens, 124,246 Output Tokens
+🔤 629,708 Input Tokens, 81,160 Output Tokens
 
-💵 $11.39 Estimated AI Cost This Week
+💵 $8.55 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 31 AI Prompts
+🧠 6 AI Sessions, 13 AI Prompts
 
-GPT                     132 lines       █████████████████████████ 100.00 %
+GPT                     347 lines       █████████████████████████ 100.00 %
 DeepSeek                0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Concise Prompter — average 268 characters per prompt
-🔁 Iterative Prompter — average 3.00 prompts per session
-🚀 High AI Trust — 0.75% of changed lines were hand-edited
+📚 Concise Prompter — average 321 characters per prompt
+🔁 Iterative Prompter — average 2.00 prompts per session
+🚀 High AI Trust — 0.29% of changed lines were hand-edited
 ```
 
 <!--END_SECTION:waka-->
