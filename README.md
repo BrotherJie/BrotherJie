@@ -57,36 +57,36 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2026%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                   49 mins         ██████████████░░░░░░░░░░░  55.01 %
-Markdown                22 mins         ██████░░░░░░░░░░░░░░░░░░░  24.99 %
-Python                  18 mins         █████░░░░░░░░░░░░░░░░░░░░  20.01 %
+Other                   32 mins         ███████████░░░░░░░░░░░░░░  44.33 %
+Markdown                22 mins         ████████░░░░░░░░░░░░░░░░░  30.92 %
+Python                  18 mins         ██████░░░░░░░░░░░░░░░░░░░  24.76 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 30 mins (100.00%)
+⏱ AI Coding Time: 1 hr 12 mins (100.00%)
 
 ✍️ 463 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 980,886 Input Tokens, 43,327 Output Tokens
+🔤 751,117 Input Tokens, 41,574 Output Tokens
 
-💵 $6.33 Estimated AI Cost This Week
+💵 $6.04 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 35 AI Prompts
+🧠 17 AI Sessions, 28 AI Prompts
 
 GPT                     339 lines       ██████████████████░░░░░░░  73.22 %
 Hermes-Agent            124 lines       ███████░░░░░░░░░░░░░░░░░░  26.78 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Detailed Prompter — average 571 characters per prompt
+📚 Detailed Prompter — average 553 characters per prompt
 🔁 Iterative Prompter — average 2.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
