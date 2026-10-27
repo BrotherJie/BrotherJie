@@ -57,36 +57,38 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-151%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2033%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                   1 hr 42 mins    ████████████████████░░░░░  78.06 %
-Python                  22 mins         ████░░░░░░░░░░░░░░░░░░░░░  17.24 %
-Markdown                6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   4.71 %
+Other                   1 hr 49 mins    ████████████████████░░░░░  80.03 %
+Python                  23 mins         ████░░░░░░░░░░░░░░░░░░░░░  16.91 %
+Markdown                4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   3.06 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 11 mins (100.00%)
+⏱ AI Coding Time: 2 hrs 17 mins (100.00%)
 
-✍️ 290 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 404 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 525,040 Input Tokens, 43,912 Output Tokens
+🔤 608,028 Input Tokens, 70,082 Output Tokens
 
-💵 $10.92 Estimated AI Cost This Week
+💵 $16.25 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 43 AI Prompts
+🧠 13 AI Sessions, 40 AI Prompts
 
-GPT                     290 lines       █████████████████████████ 100.00 %
+GPT                     288 lines       ██████████████████░░░░░░░  71.29 %
+Hermes-Agent            116 lines       ███████░░░░░░░░░░░░░░░░░░  28.71 %
+DeepSeek                0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 Sonnet                  0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Concise Prompter — average 294 characters per prompt
+📚 Concise Prompter — average 278 characters per prompt
 🔁 Iterative Prompter — average 3.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
