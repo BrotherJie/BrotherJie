@@ -57,39 +57,40 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2039%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                   1 hr 49 mins    ████████████████████░░░░░  80.03 %
-Python                  23 mins         ████░░░░░░░░░░░░░░░░░░░░░  16.91 %
-Markdown                4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   3.06 %
+Other                   2 hrs 47 mins   ███████████████░░░░░░░░░░  61.54 %
+Python                  51 mins         █████░░░░░░░░░░░░░░░░░░░░  18.70 %
+Java                    43 mins         ████░░░░░░░░░░░░░░░░░░░░░  15.82 %
+Markdown                10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.93 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 17 mins (100.00%)
+⏱ AI Coding Time: 4 hrs 32 mins (100.00%)
 
-✍️ 404 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 963 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 608,028 Input Tokens, 70,082 Output Tokens
+🔤 795,950 Input Tokens, 130,271 Output Tokens
 
-💵 $16.25 Estimated AI Cost This Week
+💵 $29.37 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 40 AI Prompts
+🧠 17 AI Sessions, 65 AI Prompts
 
-GPT                     288 lines       ██████████████████░░░░░░░  71.29 %
-Hermes-Agent            116 lines       ███████░░░░░░░░░░░░░░░░░░  28.71 %
+GPT                     847 lines       ██████████████████████░░░  87.95 %
+Hermes-Agent            116 lines       ███░░░░░░░░░░░░░░░░░░░░░░  12.05 %
 DeepSeek                0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 Sonnet                  0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Concise Prompter — average 278 characters per prompt
-🔁 Iterative Prompter — average 3.00 prompts per session
+📚 Concise Prompter — average 228 characters per prompt
+🔁 Iterative Prompter — average 4.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
 
