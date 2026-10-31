@@ -57,23 +57,23 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-155%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-156%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                   3 hrs 20 mins   ██████████████░░░░░░░░░░░  57.90 %
-Java                    1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░  18.99 %
-Markdown                35 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.34 %
-Python                  28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.19 %
-Java Properties         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   2.59 %
+Other                   3 hrs 17 mins   ██████████████░░░░░░░░░░░  57.60 %
+Java                    1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░  19.12 %
+Markdown                35 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.41 %
+Python                  28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.25 %
+Java Properties         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   2.61 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 45 mins (100.00%)
+⏱ AI Coding Time: 5 hrs 43 mins (100.00%)
 
 ✍️ 1,602 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
@@ -81,7 +81,7 @@ Java Properties         8 mins          █░░░░░░░░░░░░�
 
 💵 $29.01 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 83 AI Prompts
+🧠 25 AI Sessions, 80 AI Prompts
 
 GPT                     1,491 lines     ███████████████████████░░  92.78 %
 Hermes-Agent            116 lines       ██░░░░░░░░░░░░░░░░░░░░░░░   7.22 %
@@ -89,7 +89,7 @@ DeepSeek                0 lines         ░░░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Concise Prompter — average 230 characters per prompt
+📚 Concise Prompter — average 224 characters per prompt
 🔁 Iterative Prompter — average 3.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
