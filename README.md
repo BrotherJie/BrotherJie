@@ -63,33 +63,32 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 
 ```text
 💬 Programming Languages: 
-Other                   3 hrs 17 mins   ██████████████░░░░░░░░░░░  57.60 %
-Java                    1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░  19.12 %
-Markdown                35 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.41 %
-Python                  28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.25 %
-Java Properties         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   2.61 %
+Other                   3 hrs 4 mins    ██████████████░░░░░░░░░░░  56.19 %
+Java                    1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░  19.97 %
+Markdown                34 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.55 %
+Python                  27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.46 %
+Java Properties         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   2.73 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 43 mins (100.00%)
+⏱ AI Coding Time: 5 hrs 28 mins (100.00%)
 
-✍️ 1,602 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 1,486 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 1,130,822 Input Tokens, 220,015 Output Tokens
+🔤 989,969 Input Tokens, 203,818 Output Tokens
 
-💵 $29.01 Estimated AI Cost This Week
+💵 $24.97 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 80 AI Prompts
+🧠 23 AI Sessions, 76 AI Prompts
 
-GPT                     1,491 lines     ███████████████████████░░  92.78 %
-Hermes-Agent            116 lines       ██░░░░░░░░░░░░░░░░░░░░░░░   7.22 %
-DeepSeek                0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
+GPT                     1,491 lines     █████████████████████████  99.93 %
+Hermes-Agent            1 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Concise Prompter — average 224 characters per prompt
+📚 Concise Prompter — average 220 characters per prompt
 🔁 Iterative Prompter — average 3.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
