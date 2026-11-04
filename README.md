@@ -57,38 +57,38 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-156%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-157%20hrs%203%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                   2 hrs 47 mins   ████████████░░░░░░░░░░░░░  48.80 %
-Java                    1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░  19.07 %
-Python                  48 mins         ████░░░░░░░░░░░░░░░░░░░░░  14.09 %
-Markdown                46 mins         ███░░░░░░░░░░░░░░░░░░░░░░  13.45 %
+Other                   2 hrs 47 mins   ████████████░░░░░░░░░░░░░  48.69 %
+Java                    1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░  19.11 %
+Python                  48 mins         ████░░░░░░░░░░░░░░░░░░░░░  14.12 %
+Markdown                46 mins         ███░░░░░░░░░░░░░░░░░░░░░░  13.48 %
 Java Properties         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   2.61 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 44 mins (100.00%)
+⏱ AI Coding Time: 5 hrs 43 mins (100.00%)
 
 ✍️ 1,975 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 1,195,191 Input Tokens, 243,135 Output Tokens
+🔤 1,177,093 Input Tokens, 234,132 Output Tokens
 
-💵 $25.17 Estimated AI Cost This Week
+💵 $23.13 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 71 AI Prompts
+🧠 24 AI Sessions, 71 AI Prompts
 
 GPT                     1,980 lines     █████████████████████████  99.95 %
 Hermes-Agent            1 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Concise Prompter — average 244 characters per prompt
+📚 Concise Prompter — average 238 characters per prompt
 🔁 Iterative Prompter — average 3.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
