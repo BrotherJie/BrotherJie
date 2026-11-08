@@ -57,42 +57,42 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2039%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                   3 hrs 58 mins   ████████████░░░░░░░░░░░░░  46.18 %
-Markdown                1 hr 48 mins    █████░░░░░░░░░░░░░░░░░░░░  21.11 %
-Python                  59 mins         ███░░░░░░░░░░░░░░░░░░░░░░  11.45 %
-PHP                     58 mins         ███░░░░░░░░░░░░░░░░░░░░░░  11.43 %
-SQL                     41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.01 %
+Other                   3 hrs 58 mins   ███████████░░░░░░░░░░░░░░  42.49 %
+Markdown                2 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░  22.92 %
+Python                  1 hr            ███░░░░░░░░░░░░░░░░░░░░░░  10.73 %
+PHP                     58 mins         ███░░░░░░░░░░░░░░░░░░░░░░  10.52 %
+SQL                     41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.37 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs (93.10%)
+⏱ AI Coding Time: 8 hrs 44 mins (93.65%)
 
-✍️ 2,541 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 2,932 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 3,138,203 Input Tokens, 348,753 Output Tokens
+🔤 3,414,755 Input Tokens, 390,906 Output Tokens
 
-💵 $91.62 Estimated AI Cost This Week
+💵 $96.47 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 84 AI Prompts
+🧠 36 AI Sessions, 91 AI Prompts
 
-GPT                     2,253 lines     ██████████████████████░░░  88.67 %
-Hermes-Agent            227 lines       ██░░░░░░░░░░░░░░░░░░░░░░░   8.93 %
-DeepSeek                61 lines        █░░░░░░░░░░░░░░░░░░░░░░░░   2.40 %
+GPT                     2,467 lines     █████████████████████░░░░  84.14 %
+Hermes-Agent            404 lines       ███░░░░░░░░░░░░░░░░░░░░░░  13.78 %
+DeepSeek                61 lines        █░░░░░░░░░░░░░░░░░░░░░░░░   2.08 %
 Codex-Vscode            0 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Verbose Prompter — average 1,542 characters per prompt
-🔁 Iterative Prompter — average 2.00 prompts per session
-🚀 High AI Trust — 0.20% of changed lines were hand-edited
+📚 Detailed Prompter — average 1,430 characters per prompt
+🔁 Iterative Prompter — average 3.00 prompts per session
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 <!--END_SECTION:waka-->
