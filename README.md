@@ -57,38 +57,38 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 <summary>Weekly coding activity</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript              3 hrs 24 mins   █████████░░░░░░░░░░░░░░░░  35.56 %
-Markdown                2 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░  23.93 %
-Other                   1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░  12.56 %
-PHP                     48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.44 %
-SQL                     31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.39 %
+JavaScript              3 hrs 24 mins   ████████░░░░░░░░░░░░░░░░░  33.34 %
+Markdown                2 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░  22.44 %
+Other                   1 hr 50 mins    █████░░░░░░░░░░░░░░░░░░░░  18.02 %
+PHP                     48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.91 %
+SQL                     31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.06 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 39 mins (90.38%)
+⏱ AI Coding Time: 9 hrs 18 mins (90.98%)
 
 ✍️ 4,577 lines written by AI, 7 lines written by hand (99.85% AI-written)
 
-🔤 3,522,696 Input Tokens, 611,886 Output Tokens
+🔤 3,694,453 Input Tokens, 614,847 Output Tokens
 
-💵 $84.63 Estimated AI Cost This Week
+💵 $84.92 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 72 AI Prompts
+🧠 45 AI Sessions, 73 AI Prompts
 
 GPT                     4,531 lines     █████████████████████████  98.71 %
 Codex-Vscode            59 lines        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.85% of written lines came from AI
-📚 Concise Prompter — average 477 characters per prompt
+📚 Concise Prompter — average 465 characters per prompt
 🔁 Iterative Prompter — average 2.00 prompts per session
 🚀 High AI Trust — 2.67% of changed lines were hand-edited
 ```
