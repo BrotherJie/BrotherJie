@@ -63,32 +63,32 @@ I'm a software engineer based in Shanghai. I enjoy turning ideas into reliable, 
 
 ```text
 💬 Programming Languages: 
-Other                   3 hrs 47 mins   ███████████░░░░░░░░░░░░░░  43.52 %
-Markdown                1 hr 48 mins    █████░░░░░░░░░░░░░░░░░░░░  20.76 %
-PHP                     1 hr 30 mins    ████░░░░░░░░░░░░░░░░░░░░░  17.36 %
-JavaScript              1 hr 18 mins    ████░░░░░░░░░░░░░░░░░░░░░  15.10 %
-Python                  8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64 %
+Other                   2 hrs 16 mins   ████████░░░░░░░░░░░░░░░░░  30.11 %
+Markdown                1 hr 48 mins    ██████░░░░░░░░░░░░░░░░░░░  23.95 %
+JavaScript              1 hr 40 mins    ██████░░░░░░░░░░░░░░░░░░░  22.17 %
+PHP                     1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░  20.02 %
+Python                  8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.90 %
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 41 mins (100.00%)
+⏱ AI Coding Time: 7 hrs 32 mins (100.00%)
 
-✍️ 2,369 lines written by AI, 0 lines written by hand (100.00% AI-written)
+✍️ 2,480 lines written by AI, 0 lines written by hand (100.00% AI-written)
 
-🔤 2,772,988 Input Tokens, 404,751 Output Tokens
+🔤 2,576,621 Input Tokens, 395,094 Output Tokens
 
-💵 $82.17 Estimated AI Cost This Week
+💵 $85.57 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 80 AI Prompts
+🧠 22 AI Sessions, 68 AI Prompts
 
-GPT                     2,369 lines     █████████████████████████ 100.00 %
+GPT                     2,480 lines     █████████████████████████ 100.00 %
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.00% of written lines came from AI
-📚 Concise Prompter — average 273 characters per prompt
-🔁 Iterative Prompter — average 4.00 prompts per session
+📚 Concise Prompter — average 300 characters per prompt
+🔁 Iterative Prompter — average 3.00 prompts per session
 🚀 High AI Trust — 0.00% of changed lines were hand-edited
 ```
 
